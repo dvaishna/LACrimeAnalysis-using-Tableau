@@ -3,4 +3,5 @@ The LAPD crime dataset from 2020 to 2023 provides insights on different crime ca
 
 This analysis explores crime patterns in Los Angeles, aiming to distinguish the type of crime resulting in the highest victimization rate and its relation to ethnicity, age, and gender.
 
+Data Cleaning is done using Excel.
 The visualisations are created in Tableau using various calculated fields, groups & hierarchy.
