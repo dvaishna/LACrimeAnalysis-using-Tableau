@@ -5,3 +5,5 @@ This analysis explores crime patterns in Los Angeles, aiming to distinguish the 
 
 Data Cleaning is done using Excel.
 The visualisations are created in Tableau using various calculated fields, groups & hierarchy.
+
+[Link to wiki](https://github.com/dvaishna/LACrimeAnalysis-using-Tableau/wiki)
